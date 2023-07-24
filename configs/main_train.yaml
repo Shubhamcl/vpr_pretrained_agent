@@ -1,0 +1,14 @@
+data_address: '/home/user/Desktop/dataset_folder/'
+dagger_data_address: ['/home/user/Desktop/daggers/dagger1/','/home/user/Desktop/daggers/dagger2/']
+log_dir: '/home/user/Desktop/logs/vpr_pretrained_agent/'
+exp_name: 'testing_hydra'
+batch_size: 64
+epochs: 25
+lr: 0.0001
+lr_step_size: 15
+wd: 0.00001
+save_every: 1
+pre_train: True
+pre_train_path: '/home/user/git/vpr_pretrained_agent/SegVPR_encoder/'
+lb_mode: True
+aug: True
