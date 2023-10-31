@@ -1,9 +1,9 @@
 # Visual Place Recognition pre-trained end-to-end driving agent
 
-  
-
 Repository for the paper "Visual place recognition pre-training for end to end trained autonomous driving agent"
 
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/cWcpt4uJtTM/hqdefault.jpg)](https://www.youtube.com/embed/cWcpt4uJtTM)
 
 ## Setup training code:
 1. Clone this repository:
